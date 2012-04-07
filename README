@@ -1,0 +1,34 @@
+#===============================================================================
+#
+#      PROJECT: ParselTrack  
+#
+#  DESCRIPTION: This project is intended to create a framework for building
+#  		torrent tracking websites which is plugin extensible and has
+#		support for multiple backend torrent tracker services.
+#
+#       AUTHOR: See AUTHORS
+# REQUIREMENTS: See INSTALL
+#         BUGS: See BUGS
+#        NOTES: See README
+#       AUTHOR: See AUTHORS
+#    COPYRIGHT: Copyright 2012, The ParselTrack Project
+#      LICENSE: GPLv3 See LICENSE
+#      VERSION: ---
+#      CREATED: 04/07/2012 15:13:12
+#     REVISION: 0.01
+#   MAINTAINER: https://github.com/Tristor
+#	STATUS: Work in Progress
+#===============================================================================
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
